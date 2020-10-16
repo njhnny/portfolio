@@ -1,0 +1,31 @@
+h1 {
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+ 
+}
+
+.header h1 {
+  background-color: beige;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
+.header {
+  width: 50%;
+  box-sizing: border-box;
+
+}
+.portrait {
+  width: 20%;
+}
+
+.social {
+  float: right;
+  position: fixed;
+  right: 10px;
+  top: 5px;
+  z-index: -1;
+}
