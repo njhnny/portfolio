@@ -63,6 +63,19 @@ body {
   margin-right: auto;
 }
 
+.workbox {
+  display: block;
+  width: 30%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: grey;
+  height: 500px;
+  width: 650px;
+  background-blend-mode: soft-light;
+  opacity: 0.8;
+}
+
 .email {
   display: block;
   width: 30%;
@@ -75,6 +88,26 @@ body {
 .choose{
   float: right;
   display: inline;
+}
+
+.list {
+  position: relative;
+  float: right;
+  background-color:bisque;
+  margin-right: 15px;
+  text-align: left;
+  width: 200px;
+  
+  
+  
+}
+
+.workbox p {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 200px;
+  padding-top: 40px;
+  padding-left: 35px;
+  
 }
 
 .background {
@@ -91,4 +124,8 @@ body {
   min-width: 1200px;
   
 
+}
+
+#emphasis {
+  font-family: cursive, 'Courier New', Courier, monospace;
 }
