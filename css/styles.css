@@ -16,9 +16,7 @@ body {
 }
 
 .header {
-  
   border-left-color: beige;
-  
   left: 0px;
   margin-right: 0px;
   padding-left: 0px;
@@ -32,12 +30,9 @@ body {
 .portrait {
   display: block;
   width: 30%;
-  
   margin-left: auto;
   margin-right: auto;
   margin-top: 13%;
-  
-  
 }
 
 .social {
@@ -52,7 +47,6 @@ body {
   width: 20%;
   position: absolute;
   top: 20%;
-
 }
 
 .about {
@@ -97,9 +91,6 @@ body {
   margin-right: 15px;
   text-align: left;
   width: 200px;
-  
-  
-  
 }
 
 .workbox p {
@@ -107,23 +98,16 @@ body {
   width: 200px;
   padding-top: 40px;
   padding-left: 35px;
-  
 }
 
 .background {
-  
   z-index: -2;
   position: fixed;
   top: 0px;
   left: 0px;
   opacity: 0.3;
-  
-  
   min-height: 100%;
- 
   min-width: 1200px;
-  
-
 }
 
 #emphasis {
