@@ -7,5 +7,5 @@ A collection of my work and information for professional use.
 * markdown
 ## Contact
 njhnny@gmail.com
-
+### [Github](https://github.com/njhnny/portfolio)
 Copyright (c) 2020 **_{Nicholas Hennessy}_**
