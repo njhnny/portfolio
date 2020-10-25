@@ -6,6 +6,15 @@ A collection of my work and information for professional use.
 * CSS
 * markdown
 
+### Setup and Installation:
+* Open terminal(mac) or command line(pc)
+* Navigate to the location you would like this project using the command "cd (name of location)"
+* Enter "git clone https://njhnny.github.io/portfolio/"
+
+or
+
+Navigate to the project's github page in your browser and download the code using the green button in the top right corner.
+
 ### View Online
 https://njhnny.github.io/portfolio/
 ## Contact
