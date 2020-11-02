@@ -2,11 +2,7 @@
 By Nick Hennessy
 ## Description
 A collection of my work and information for professional use.
-## Technologies used
-* html
-* CSS
-* Markdown
-* Bootstrap CSS library.
+
 
 ### Setup and Installation:
 * Open terminal(mac) or command line(pc)
@@ -17,11 +13,23 @@ or
 
 Navigate to the project's github page in your browser and download the code using the green button in the top right corner.
 
+## Known Bugs
+* Issues with background scaling in different sized browser windows.
+
+
+
 ### View Online
 https://njhnny.github.io/portfolio/
 ## Contact
 njhnny@gmail.com
 ### [Github](https://github.com/njhnny/portfolio)
+
+## Technologies used
+* html
+* CSS
+* Markdown
+* Bootstrap CSS library
+
 ## License
  
 MIT License (MIT)
