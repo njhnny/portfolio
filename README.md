@@ -1,10 +1,12 @@
 # Portfolio
-## By Nick Hennessy
+By Nick Hennessy
+## Description
 A collection of my work and information for professional use.
 ## Technologies used
 * html
 * CSS
-* markdown
+* Markdown
+* Bootstrap CSS library.
 
 ### Setup and Installation:
 * Open terminal(mac) or command line(pc)
